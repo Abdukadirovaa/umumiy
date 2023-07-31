@@ -1,0 +1,57 @@
+h4{
+
+   width: 700px;
+   height: 80px;
+   font: size 30px; ;
+   font-family: cursive;
+   font-weight: 300;
+   text-align:center;
+
+border-width: 15px;
+border-style: groove;
+border-color: blanchedalmond;
+border: 5px solid gold;
+border-top: 10px dashed greenyellow;
+border-right: 5px dashed green;
+border-bottom: 8px double rebeccapurple;
+border-left: 20px groove red;
+
+
+border: 5px solid rgba(32,171,16,0.804);
+
+
+
+border-radius: 50px;
+border-radius: 0px 50px 0 50px;
+border-radius: 50%;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

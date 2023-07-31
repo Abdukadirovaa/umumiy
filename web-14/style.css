@@ -1,0 +1,75 @@
+*{
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+box-sizing: border-box;
+}
+
+
+.item{
+width: 100px;
+height: 100px;
+border: 4px solid black;
+background-color: blueviolet;
+color:white;
+font-size: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+}
+
+.item:nth-child(1){
+background-color: yellow ;
+z-index: -1;
+left: 100px;
+}
+
+.item:nth-child(2){
+background-color: cornflowerblue;
+z-index: -1;
+left: 100px;
+}
+
+.item:nth-child(3){
+background-color: chartreuse;
+z-index: -1;
+left: 60px;
+}
+
+.item:nth-child(4){
+background-color: aqua;
+z-index: -1;
+left:40px ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
